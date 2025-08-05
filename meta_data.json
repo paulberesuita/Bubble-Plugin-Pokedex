@@ -1,0 +1,17 @@
+{
+    "categories": {
+        "0": "containers",
+        "1": "data (things)",
+        "2": "image",
+        "3": "media",
+        "4": "technical"
+    },
+    "data_tracked": false,
+    "demo_page": "https://tinybuild-pokedex.bubbleapps.io/version-test",
+    "description": "This Bubble.io plugin integrates comprehensive Pokémon data retrieval into your Bubble.io app, leveraging the PokéAPI to provide detailed information and evolution insights for any Pokémon of your choice.\n\n[b]Features[/b]\n🔥 Fetches detailed Pokémon species data, including evolution chains  \n🔥 Determines and displays the evolution stage of the selected Pokémon  \n🔥 Retrieves essential stats such as HP, types, attacks, and National Pokédex ID  \n🔥 Seamless integration with Bubble.io for dynamic state management and event triggering  \n🔥 Handles API errors gracefully with customizable fallback events  \n🔥 Minimal configuration for quick and efficient setup\n\n[url=https://tinybuild-pokedex.bubbleapps.io/version-test][img width=149 height=44]https://e1f25121b9909d912857ae47ce043a0b.cdn.bubble.io/f1746379719437x844090521350097300/button-plugin-demo.png[/img][/url]  [url=https://bubble.io/page?id=tinybuild-pokedex&tab=tabs-1&name=index][img width=149 height=44]https://e1f25121b9909d912857ae47ce043a0b.cdn.bubble.io/f1746379715663x925808806069093200/button-bubble-editor.png[/img][/url]\n\n[b]Need a new app or redesign?[/b]  \n[url=https://www.tinybuildstudio.com]Check us out at TinyBuild Studio[/url]  \n[url=https://www.tinybuildstudio.com][img width=600 height=234]https://e1f25121b9909d912857ae47ce043a0b.cdn.bubble.io/f1746370776107x944509712552664000/cover-tinybuild-studio.png[/img][/url]\n\n[b]Want to enhance your Bubble.io apps?[/b]  \n[url=https://www.tinyuikit.com]Check out TinyUIKit[/url]  \n[url=https://www.tinyuikit.com][img width=600 height=234]https://e1f25121b9909d912857ae47ce043a0b.cdn.bubble.io/f1746370772372x547570266262826800/cover-tinyuikit.png[/img][/url]\n",
+    "image": "//meta-q.cdn.bubble.io/f1746455369323x454821749246143040/get-pokemon-min.png",
+    "license": "open_source",
+    "link": "https://www.tinybuildstudio.com",
+    "name": "Pokedex",
+    "plugin_instructions": "[b]How to Use[/b]\n1️⃣ Install the \"Pokédex\" plugin into your Bubble app from the plugins marketplace.\n2️⃣ Add the \"Fetch Pokémon\" action to your desired workflow.\n3️⃣ Configure the action's properties by specifying the Pokémon name you want to retrieve data for.\n4️⃣ The Pokémon data, including stats and evolution information, will be fetched and available via the plugin states\n\nYou can see how the plugin is being used here:\nhttps://bubble.io/page?id=tinybuild-pokedex&tab=tabs-1&name=index"
+}

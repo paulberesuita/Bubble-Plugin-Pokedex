@@ -1,0 +1,83 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 10,
+        "width": 10
+    },
+    "display": "pokemon",
+    "events": {
+        "AAK": {
+            "caption": "getPokemon",
+            "name": "getPokemon"
+        },
+        "AAL": {
+            "caption": "noPokemonFound",
+            "name": "noPokemonFound"
+        }
+    },
+    "icon": "ion-android-checkbox-blank",
+    "property_applications": {
+        "Background": true,
+        "MinWidth": true,
+        "resizable": true
+    },
+    "states": {
+        "AAD": {
+            "caption": "pokemonName",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "pokemonName",
+            "value": "text"
+        },
+        "AAE": {
+            "caption": "pokemonID",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "pokemonID",
+            "value": "number"
+        },
+        "AAF": {
+            "caption": "pokemonStage",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "pokemonStage",
+            "value": "text"
+        },
+        "AAG": {
+            "caption": "pokemonType",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "pokemonType",
+            "value": "text"
+        },
+        "AAH": {
+            "caption": "pokemonHP",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "pokemonHP",
+            "value": "number"
+        },
+        "AAI": {
+            "caption": "pokemonAttacks",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "pokemonAttacks",
+            "value": "text"
+        },
+        "AAJ": {
+            "caption": "pokemonImage",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "pokemonImage",
+            "value": "image"
+        }
+    }
+}

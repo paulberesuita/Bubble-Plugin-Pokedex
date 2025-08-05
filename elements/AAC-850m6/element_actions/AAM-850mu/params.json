@@ -1,0 +1,12 @@
+{
+    "caption": "fetchPokemon",
+    "fields": {
+        "AAN": {
+            "caption": "pokemonName",
+            "editor": "DynamicValue",
+            "name": "pokemonName",
+            "rank": 0,
+            "value": "text"
+        }
+    }
+}
